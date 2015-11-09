@@ -22,7 +22,7 @@
 	<packaging>bundle</packaging>
 	<name>Apache Log4j</name>
 	<version>1.2.17-charles</version>
-	<description>Apache Log4j 1.2 test</description>
+	<description>Apache Log4j 1.2 charles test</description>
 	<url>http://logging.apache.org/log4j/1.2/</url>
 	<issueManagement>
 		<system>Bugzilla</system>
